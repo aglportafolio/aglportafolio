@@ -10,5 +10,5 @@ I'm developer and an embedded software enthusiast
 - 👯 I’m looking to collaborate on embedded software
 - 💬 Ask me about java, C++ microchip embedded software
 - 📫 How to reach me: agl.portafolio@gmail.com
-- ⚡ Fun fact: I love play the guitar and learn
+- ⚡ Fun fact: I love play the guitar, learn new tool, and build everything of somethings
 
