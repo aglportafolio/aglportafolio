@@ -3,7 +3,7 @@ I'm Alex.
 I'm developer and an embedded software enthusiast
 
 **aglportafolio/aglportafolio** is a ✨ _special_demos ✨ 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on java,C++
 - 🌱 I’m currently learning Angular
