@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Alex.
-I'm developer and an embedded software enthusiast
+I'm developer and  embedded software 
 
 **aglportafolio/aglportafolio** is a ✨ _special_demos ✨ 
 
